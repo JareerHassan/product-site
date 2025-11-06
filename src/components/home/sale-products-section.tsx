@@ -13,7 +13,7 @@ export default function SaleProductsSection() {
   useEffect(() => {
     const fetchSaleProducts = async () => {
       try {
-        const response = await axios.get('http://localhost:5001/api/products/sale');
+        const response = await axios.get('https://product-site-backend-kwn4.vercel.app/api/products/sale');
         setSaleProducts(response.data);
       } catch (error) {
         console.error('Error fetching sale products:', error);

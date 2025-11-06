@@ -23,7 +23,7 @@ export default function ProductDetailPage() {
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        const res = await axios.get(`http://localhost:5001/api/products/${id}`);
+        const res = await axios.get(`https://product-site-backend-kwn4.vercel.app/api/products/${id}`);
         setProduct(res.data);
         setSelectedColor(res.data.colors?.[0] || null);
       } catch (error) {

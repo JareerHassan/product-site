@@ -20,7 +20,7 @@ export default function SalePage({
   useEffect(() => {
     const fetchSaleProducts = async () => {
       try {
-        const res = await axios.get('http://localhost:5001/api/products/sale');
+        const res = await axios.get('https://product-site-backend-kwn4.vercel.app/api/products/sale');
         setProducts(res.data);
       } catch (error) {
         console.error('Error fetching sale products:', error);
