@@ -1,0 +1,118 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Elegant storefront display",
+      "imageUrl": "https://images.unsplash.com/photo-1665815844395-06f64f44b5e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmYXNoaW9uJTIwc3RvcmV8ZW58MHx8fHwxNzYyMTk4MjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion store"
+    },
+    {
+      "id": "banner-1",
+      "description": "Summer collection promotion",
+      "imageUrl": "https://images.unsplash.com/photo-1623288516140-47a0a17cec7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdW1tZXIlMjBmYXNoaW9ufGVufDB8fHx8MTc2MjIyMDk0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "summer fashion"
+    },
+    {
+      "id": "banner-2",
+      "description": "New arrivals promotion",
+      "imageUrl": "https://images.unsplash.com/photo-1520006403909-838d6b92c22e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2xvdGhpbmclMjByYWNrfGVufDB8fHx8MTc2MjIyOTYyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clothing rack"
+    },
+    {
+      "id": "product-1",
+      "description": "Classic white t-shirt",
+      "imageUrl": "https://images.unsplash.com/photo-1688111421202-bda886f5e215?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3aGl0ZSUyMHQtc2hpcnR8ZW58MHx8fHwxNzYyMjI4NDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white t-shirt"
+    },
+    {
+      "id": "product-2",
+      "description": "Blue denim jeans",
+      "imageUrl": "https://images.unsplash.com/photo-1714143136372-ddaf8b606da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkZW5pbSUyMGplYW5zfGVufDB8fHx8MTc2MjE4MDcwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "denim jeans"
+    },
+    {
+      "id": "product-3",
+      "description": "Black leather jacket",
+      "imageUrl": "https://images.unsplash.com/photo-1727524366429-27de8607d5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsZWF0aGVyJTIwamFja2V0fGVufDB8fHx8MTc2MjE0NTQ5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather jacket"
+    },
+    {
+      "id": "product-4",
+      "description": "Floral summer dress",
+      "imageUrl": "https://images.unsplash.com/photo-1604506272685-a999a4d122e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdW1tZXIlMjBkcmVzc3xlbnwwfHx8fDE3NjIxMjM5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "summer dress"
+    },
+    {
+      "id": "product-5",
+      "description": "Gray hoodie",
+      "imageUrl": "https://images.unsplash.com/photo-1632862540359-fc17af5c143e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxncmF5JTIwaG9vZGllfGVufDB8fHx8MTc2MjIwNzI2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gray hoodie"
+    },
+    {
+      "id": "product-6",
+      "description": "Beige trench coat",
+      "imageUrl": "https://images.unsplash.com/photo-1573545289441-827c028f7a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cmVuY2glMjBjb2F0fGVufDB8fHx8MTc2MjE0OTUzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trench coat"
+    },
+    {
+      "id": "product-7",
+      "description": "Red silk scarf",
+      "imageUrl": "https://images.unsplash.com/photo-1707978932202-751b08324daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzaWxrJTIwc2NhcmZ8ZW58MHx8fHwxNzYyMTg2MDk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silk scarf"
+    },
+    {
+      "id": "product-8",
+      "description": "Wool knit sweater",
+      "imageUrl": "https://images.unsplash.com/photo-1652904870544-5a29dfb2f498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxrbml0JTIwc3dlYXRlcnxlbnwwfHx8fDE3NjIxNDg2MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "knit sweater"
+    },
+    {
+      "id": "product-9",
+      "description": "Tan chino shorts",
+      "imageUrl": "https://images.unsplash.com/photo-1648983629477-8dde127cb94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaGlubyUyMHNob3J0c3xlbnwwfHx8fDE3NjIyMjg2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chino shorts"
+    },
+    {
+      "id": "product-10",
+      "description": "Green cargo pants",
+      "imageUrl": "https://images.unsplash.com/37/lynDyjGSR9eR57ouPIEE_IMG_woods.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjYXJnbyUyMHBhbnRzfGVufDB8fHx8MTc2MjE4OTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cargo pants"
+    },
+    {
+      "id": "product-11",
+      "description": "Striped long-sleeve shirt",
+      "imageUrl": "https://images.unsplash.com/photo-1591224615614-e300d72e37c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHJpcGVkJTIwc2hpcnR8ZW58MHx8fHwxNzYyMjI4MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "striped shirt"
+    },
+    {
+      "id": "product-12",
+      "description": "Black formal trousers",
+      "imageUrl": "https://images.unsplash.com/photo-1760549562698-f38cd86804e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmb3JtYWwlMjB0cm91c2Vyc3xlbnwwfHx8fDE3NjIyMzIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "formal trousers"
+    },
+    {
+      "id": "review-1",
+      "description": "Reviewer avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1535643302794-19c3804b874b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMTg3MjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "review-2",
+      "description": "Reviewer avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1623605931891-d5b95ee98459?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2MjE2NDU4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "review-3",
+      "description": "Reviewer avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1579503841516-e0bd7fca5faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGZhY2V8ZW58MHx8fHwxNzYyMjA5OTk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman face"
+    },
+    {
+      "id": "contact-banner",
+      "description": "Contact us banner",
+      "imageUrl": "https://images.unsplash.com/photo-1556740758-90de374c12ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjdXN0b21lciUyMHNlcnZpY2V8ZW58MHx8fHwxNzYyMTgxMjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "customer service"
+    }
+  ]
+}
