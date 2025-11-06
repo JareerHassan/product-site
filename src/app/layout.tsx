@@ -10,7 +10,7 @@ import { CartProvider } from '@/hooks/use-cart';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: 'Elegance Boutique',
+  title: 'Product-Site',
   description: 'A modern eCommerce experience.',
 };
 
